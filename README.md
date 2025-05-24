@@ -25,7 +25,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/CyLock11/ArMap.git
+   git clone https://github.com/CyLock11/Armap.git
    cd ArMap
    ```
 
