@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **CyLock11**
 - 🐙 GitHub: [@CyLock11](https://github.com/CyLock11)
-- 🌐 Project Link: [https://github.com/CyLock11/ArMap](https://github.com/CyLock11/ArMap)
+- 🌐 Project Link: [https://github.com/CyLock11/ArMap](https://github.com/CyLock11/Armap)
 
 ## ⚠️ Disclaimer
 
