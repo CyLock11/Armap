@@ -63,7 +63,7 @@ python armap.py -i "Ethernet"
 ### 📱 Sample Output
 ```
 Interface: eth0, MAC: 00:11:22:33:44:55, IPv4: 192.168.1.100
-Starting armap 1.0 with 254 hosts (https://github.com/CyLock11/ArMap)
+Starting armap 1.0 with 254 hosts (https://github.com/CyLock11/Armap)
 
 192.168.1.1     aa:bb:cc:dd:ee:ff       Cisco Systems
 192.168.1.10    11:22:33:44:55:66       Apple Inc.
